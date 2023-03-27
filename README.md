@@ -1,0 +1,8 @@
+# Golang faas 
+
+
+## Deploy
+
+```
+vercel
+```
